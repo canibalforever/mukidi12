@@ -538,7 +538,7 @@ def sendTextTemplate7(to, text):
       },
       {
         "type": "text",
-        "text": "􂤂􀄁􏿿􂤂􀄌􏿿􂤂􀄉􏿿􂤂􀄐°™ᴀʟɪᴘ•􏿿",
+        "text": "𓆩𝓂𝓊𝓈𝓎𝒶𝒻𝒾𝓇𝒸𝒾𝓃𝓉𝒶",
         "size": "xl",
         "wrap": True,
         "weight": "bold",
@@ -1060,7 +1060,7 @@ def youtubeMp4(to, link):
         time.sleep(2)
         os.remove('draxz.mp4')
     except Exception as e:
-        cl.sendMessage(to, ' ᴇʀʀᴏʀ\nʟɪɴᴋ ᴀɴᴅᴀ sᴀʟᴀʜ', contentMetadata = {'AGENT_ICON': 'http://dl.profile.line-cdn.net/'+client.getContact(clientMid).pictureStatus, 'AGENT_NAME': 'ᴇʀʀᴏʀ', 'AGENT_LINK': 'https://line.me/ti/p/~aryopandelaki'})
+        cl.sendMessage(to, ' ᴇʀʀᴏʀ\nʟɪɴᴋ ᴀɴᴅᴀ sᴀʟᴀʜ', contentMetadata = {'AGENT_ICON': 'http://dl.profile.line-cdn.net/'+client.getContact(clientMid).pictureStatus, 'AGENT_NAME': 'ᴇʀʀᴏʀ', 'AGENT_LINK': 'http://line.me/ti/p/~akusayangpadamu12'})
 
 def delExpire():
     if temp_flood != {}:
@@ -2319,7 +2319,7 @@ def bot(op):
       {
         "contents": [
           {
-            "text": "☯️ᴛᴇʀᴛᴀɴɢᴋᴀᴘ\n☯️ ngintip\n☯️ᴊᴀɴᴅᴀ😜\n☯️ʙᴀʀᴜ\n☯️sᴇʟᴇsᴀɪ ᴍᴀɴᴅɪ\n\n\n✍️ᴊᴏɴᴇs ᴜsᴇʀ",
+            "text": "☯️ᴛᴇʀᴛᴀɴɢᴋᴀᴘ\n☯️ ngintip\njanda/duda😜\n☯️ʙᴀʀᴜ\n☯️sᴇʟᴇsᴀɪ ᴍᴀɴᴅɪ\n\n\n✍️ᴊᴏɴᴇs ᴜsᴇʀ",
             "size": "sm",
             "color": "#FFD700",
             "wrap": True,
@@ -2353,7 +2353,7 @@ def bot(op):
                 "url": "https://obs.line-scdn.net/{}".format(cl.getContact(op.param2).pictureStatus),
               },
               {
-                "text":"☯️ɪᴅᴇɴᴛɪᴛᴀs: ᴀɴᴀᴋ ᴊᴀʟᴀɴᴀɴ\n☯️ʜᴜʙᴜɴɢᴀɴ: ᴊᴏᴍʙʟᴏ ɴɢᴇɴᴇs\n☯️ʜᴏʙɪ: sᴜᴋᴀ ɴɪᴋᴜɴɢ sᴀɴᴀ sɪɴɪ\n☯️ᴋᴇᴜᴀɴɢᴀɴ: sᴏᴋ ᴋᴀʏᴀᴋ\n☯️ɴᴀᴍᴀ:  {}\n\nsᴜᴘᴘᴏʀᴛ ᴛᴇᴀᴍ Cannibal ᴋɪʟʟᴇʀ".format(cl.getContact(op.param2).displayName),
+                "text":"☯️ɪᴅᴇɴᴛɪᴛᴀs:ᴊᴏᴍʙʟᴏ\n☯️ʜᴜʙᴜɴɢᴀɴ: ᴊᴏᴍʙʟᴏ ɴɢᴇɴᴇs\n☯️ʜᴏʙɪ: sᴜᴋᴀ ɴɪᴋᴜɴɢ sᴀɴᴀ sɪɴɪ\n☯️ᴋᴇᴜᴀɴɢᴀɴ: PAS PASAN\n☯️ɴᴀᴍᴀ:  {}\n\nsᴜᴘᴘᴏʀᴛ ᴛᴇᴀᴍ 𓆩𝓂𝓊𝓈𝓎𝒶𝒻𝒾𝓇𝒸𝒾𝓃𝓉𝒶".format(cl.getContact(op.param2).displayName),
                 "size": "sm",
                 "margin": "none",
                 "color": "#FF0000",
@@ -2713,7 +2713,7 @@ def bot(op):
                           if wait["selfbot"] == True:
                             if msg._from in owner or msg._from in admin:
                                sendTextTemplate3(msg.to, "ʀᴇsᴘᴏɴ ᴏɴ|ᴏғғ\nᴄᴏɴᴛᴀᴄᴛ ᴏɴ|ᴏғғ\nᴀᴜᴛᴏᴊᴏɪɴ ᴏɴ|ᴏғғ\nᴀᴜᴛᴏᴀᴅᴅ ᴏɴ|ᴏғғ\nᴀᴜᴛᴏʟᴇᴀᴠᴇ ᴏɴ|ᴏғғ\nᴡᴇʟᴄᴏᴍᴇ ᴏɴ|ᴏғғ\nᴄᴏʟᴏᴋ ᴏɴ|ᴏғғ\n\nᴄʀᴇᴀᴛᴏʀ ᴛᴇᴍᴘʟᴀᴛᴇ ʙʏᴇ : 𓆩𝓂𝓊𝓈𝓎𝒶𝒻𝒾𝓇𝒸𝒾𝓃𝓉𝒶")
-                        elif cmd == "help5":􂤂􀄁􏿿􂤂􀄌􏿿􂤂􀄉􏿿􂤂􀄐°™ᴀʟɪᴘ•􏿿")
+                        elif cmd == "help5":𓆩𝓂𝓊𝓈𝓎𝒶𝒻𝒾𝓇𝒸𝒾𝓃𝓉𝒶")
                           if wait["selfbot"] == True:
                             if msg._from in owner or msg._from in admin:
                                sendTextTemplate3(msg.to, "ᴀᴅᴍɪɴ:ᴏɴ\nᴀᴅᴍɪɴ:ʀᴇᴘᴇᴀᴛ\nsᴛᴀғғ:ᴏɴ\nsᴛᴀғғ:ʀᴇᴘᴇᴀᴛ\nᴀᴅᴍɪɴᴀᴅᴅ ᴛᴀɢ\nᴀᴅᴍɪɴᴅᴇʟʟ ᴛᴀɢ\nsᴛᴀғғᴀᴅᴅ ᴛᴀɢ\nsᴛᴀғғᴅᴇʟʟ ᴛᴀɢ\nʙᴏᴛᴀᴅᴅ ᴛᴀɢ\nʙᴏᴛᴅᴇʟʟ ᴛᴀɢ\nʀᴇғʀᴇsʜ\nʟɪsᴛʙᴏᴛ\nʟɪsᴛᴀᴅᴍɪɴ\nʟɪsᴛᴘʀᴏᴛᴇᴄᴛ\nsᴇʟғ ᴏɴ|ᴏғғ\n\nᴄʀᴇᴀᴛᴏʀ ᴛᴇᴍᴘʟᴀᴛᴇ ʙʏᴇ : 𓆩𝓂𝓊𝓈𝓎𝒶𝒻𝒾𝓇𝒸𝒾𝓃𝓉𝒶")
