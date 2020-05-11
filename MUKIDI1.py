@@ -324,7 +324,7 @@ def sendTemplates(to, data):
 def sendTextTemplate(to, text):
     data = {
             "type": "flex",
-            "altText": "􂤂􀄁􏿿􂤂􀄌􏿿􂤂􀄉􏿿􂤂􀄐°™ᴀʟɪᴘ•􏿿",
+            "altText": "⁣𓆩𝓂𝓊𝓈𝓎𝒶𝒻𝒾𝓇𝒸𝒾𝓃𝓉𝒶",
             "contents": {
   "styles": {
     "body": {
@@ -367,7 +367,7 @@ def sendTextTemplate(to, text):
 def sendTextTemplate8(to, text):
     data = {
                                 "type": "flex",
-                                "altText": "{}  􂤂􀄁􏿿􂤂􀄌􏿿􂤂􀄉􏿿􂤂􀄐°™ᴀʟɪᴘ•􏿿".format(cl.getProfile().displayName),
+                                "altText": "{} ⁣𓆩𝓂𝓊𝓈𝓎𝒶𝒻𝒾𝓇𝒸𝒾𝓃𝓉𝒶".format(cl.getProfile().displayName),
                                 "contents": {
   "type": "bubble",
   "body": {
@@ -435,7 +435,7 @@ def sendTextTemplate8(to, text):
       },
       {
         "type": "text",
-        "text": "􂤂􀄁􏿿􂤂􀄌􏿿􂤂􀄉􏿿􂤂􀄐°™ᴀʟɪᴘ•􏿿",
+        "text": "⁣𓆩𝓂𝓊𝓈𝓎𝒶𝒻𝒾𝓇𝒸𝒾𝓃𝓉𝒶",
         "size": "xl",
         "wrap": True,
         "weight": "bold",
@@ -454,7 +454,7 @@ def sendTextTemplate8(to, text):
     "contents": [
       {
         "type": "text",
-        "text": "􂤂􀄁􏿿􂤂􀄌􏿿􂤂􀄉􏿿􂤂􀄐°™ᴀʟɪᴘ•􏿿",
+        "text": "⁣𓆩𝓂𝓊𝓈𝓎𝒶𝒻𝒾𝓇𝒸𝒾𝓃𝓉𝒶",
         "size": "xl",
         "wrap": True,
         "weight": "bold",
@@ -470,7 +470,7 @@ def sendTextTemplate8(to, text):
 def sendTextTemplate7(to, text):
     data = {
                                 "type": "flex",
-                                "altText": "{} 􂤂􀄁􏿿􂤂􀄌􏿿􂤂􀄉􏿿􂤂􀄐°™ᴀʟɪᴘ•􏿿".format(cl.getProfile().displayName),
+                                "altText": "{} ⁣𓆩𝓂𝓊𝓈𝓎𝒶𝒻𝒾𝓇𝒸𝒾𝓃𝓉𝒶".format(cl.getProfile().displayName),
                                 "contents": {
   "type": "bubble",
   "body": {
@@ -557,7 +557,7 @@ def sendTextTemplate7(to, text):
     "contents": [
       {
         "type": "text",
-        "text": "􂤂􀄁􏿿􂤂􀄌􏿿􂤂􀄉􏿿􂤂􀄐°™ᴀʟɪᴘ•􏿿",
+        "text": "⁣𓆩𝓂𝓊𝓈𝓎𝒶𝒻𝒾𝓇𝒸𝒾𝓃𝓉𝒶",
         "size": "xl",
         "wrap": True,
         "weight": "bold",
@@ -573,7 +573,7 @@ def sendTextTemplate7(to, text):
 def sendTextTemplate6(to, text):
     data = {
                                 "type": "flex",
-                                "altText": "{} 􂤂􀄁􏿿􂤂􀄌􏿿􂤂􀄉􏿿􂤂􀄐°™ᴀʟɪᴘ•􏿿 ".format(cl.getProfile().displayName),
+                                "altText": "{} ⁣𓆩𝓂𝓊𝓈𝓎𝒶𝒻𝒾𝓇𝒸𝒾𝓃𝓉𝒶 ".format(cl.getProfile().displayName),
                                 "contents": {
   "type": "bubble",
   "body": {
@@ -641,7 +641,7 @@ def sendTextTemplate6(to, text):
       },
       {
         "type": "text",
-        "text": "􂤂􀄁􏿿􂤂􀄌􏿿􂤂􀄉􏿿􂤂􀄐°™ᴀʟɪᴘ•􏿿",
+        "text": "⁣𓆩𝓂𝓊𝓈𝓎𝒶𝒻𝒾𝓇𝒸𝒾𝓃𝓉𝒶",
         "size": "xl",
         "wrap": True,
         "weight": "bold",
@@ -660,7 +660,7 @@ def sendTextTemplate6(to, text):
     "contents": [
       {
         "type": "text",
-        "text": "􂤂􀄁􏿿􂤂􀄌􏿿􂤂􀄉􏿿􂤂􀄐°™ᴀʟɪᴘ•􏿿",
+        "text": "⁣𓆩𝓂𝓊𝓈𝓎𝒶𝒻𝒾𝓇𝒸𝒾𝓃𝓉𝒶",
         "size": "xl",
         "wrap": True,
         "weight": "bold",
@@ -676,7 +676,7 @@ def sendTextTemplate6(to, text):
 def sendTextTemplate4(to, text):
     data = {
                                 "type": "flex",
-                                "altText": "{} 􂤂􀄁􏿿􂤂􀄌􏿿􂤂􀄉􏿿􂤂􀄐°™ᴀʟɪᴘ•􏿿".format(cl.getProfile().displayName),
+                                "altText": "{} ⁣𓆩𝓂𝓊𝓈𝓎𝒶𝒻𝒾𝓇𝒸𝒾𝓃𝓉𝒶".format(cl.getProfile().displayName),
                                 "contents": {
   "type": "bubble",
   "body": {
@@ -744,7 +744,7 @@ def sendTextTemplate4(to, text):
       },
       {
         "type": "text",
-        "text": "􂤂􀄁􏿿􂤂􀄌􏿿􂤂􀄉􏿿􂤂􀄐°™ᴀʟɪᴘ•􏿿",
+        "text": "⁣𓆩𝓂𝓊𝓈𝓎𝒶𝒻𝒾𝓇𝒸𝒾𝓃𝓉𝒶",
         "size": "xl",
         "wrap": True,
         "weight": "bold",
@@ -763,7 +763,7 @@ def sendTextTemplate4(to, text):
     "contents": [
       {
         "type": "text",
-        "text": "􂤂􀄁􏿿􂤂􀄌􏿿􂤂􀄉􏿿􂤂􀄐°™ᴀʟɪᴘ•􏿿",
+        "text": "⁣𓆩𝓂𝓊𝓈𝓎𝒶𝒻𝒾𝓇𝒸𝒾𝓃𝓉𝒶",
         "size": "xl",
         "wrap": True,
         "weight": "bold",
@@ -779,7 +779,7 @@ def sendTextTemplate4(to, text):
 def sendTextTemplate5(to, text):
     data = {
             "type": "flex",
-            "altText": "􂤂􀄁􏿿􂤂􀄌􏿿􂤂􀄉􏿿􂤂􀄐°™ᴀʟɪᴘ•􏿿",
+            "altText": "⁣𓆩𝓂𝓊𝓈𝓎𝒶𝒻𝒾𝓇𝒸𝒾𝓃𝓉𝒶",
             "contents": {
   "type": "bubble",
   "body": {
@@ -821,7 +821,7 @@ def sendTextTemplate5(to, text):
     "contents": [
       {
         "type": "text",
-        "text": "􂤂􀄁􏿿􂤂􀄌􏿿􂤂􀄉􏿿􂤂􀄐°™ᴀʟɪᴘ•􏿿",
+        "text": "⁣𓆩𝓂𝓊𝓈𝓎𝒶𝒻𝒾𝓇𝒸𝒾𝓃𝓉𝒶",
         "size": "xl",
         "wrap": True,
         "weight": "bold",
@@ -836,7 +836,7 @@ def sendTextTemplate5(to, text):
     "contents": [
       {
         "type": "text",
-        "text": "􂤂􀄁􏿿􂤂􀄌􏿿􂤂􀄉􏿿􂤂􀄐°™ᴀʟɪᴘ•􏿿",
+        "text": "⁣𓆩𝓂𝓊𝓈𝓎𝒶𝒻𝒾𝓇𝒸𝒾𝓃𝓉𝒶",
         "size": "md",
         "wrap": True,
         "weight": "bold",
@@ -852,7 +852,7 @@ def sendTextTemplate5(to, text):
 def sendTextTemplate1(to, text):
     data = {
                 "type": "template",
-                "altText": "􂤂􀄁􏿿􂤂􀄌􏿿􂤂􀄉􏿿􂤂􀄐°™ᴀʟɪᴘ•􏿿",
+                "altText": "⁣𓆩𝓂𝓊𝓈𝓎𝒶𝒻𝒾𝓇𝒸𝒾𝓃𝓉𝒶",
                 "contents": {
                     "type": "bubble",
                     "body": {
@@ -877,7 +877,7 @@ def sendTextTemplate1(to, text):
 def sendTextTemplate2(to, text):
     data = {
             "type": "flex",
-            "altText": "􂤂􀄁􏿿􂤂􀄌􏿿􂤂􀄉􏿿􂤂􀄐°™ᴀʟɪᴘ•􏿿",
+            "altText": "⁣𓆩𝓂𝓊𝓈𝓎𝒶𝒻𝒾𝓇𝒸𝒾𝓃𝓉𝒶",
             "contents": {
   "styles": {
     "body": {
@@ -920,7 +920,7 @@ def sendTextTemplate2(to, text):
 def sendTextTemplate3(to, text):
     data = {
             "type": "flex",
-            "altText": "􂤂􀄁􏿿􂤂􀄌􏿿􂤂􀄉􏿿􂤂􀄐°™ᴀʟɪᴘ•􏿿",
+            "altText": "⁣𓆩𝓂𝓊𝓈𝓎𝒶𝒻𝒾𝓇𝒸𝒾𝓃𝓉𝒶",
             "contents": {
   "type": "bubble",
   "body": {
@@ -989,7 +989,7 @@ def sendTextTemplate3(to, text):
     "contents": [
       {
         "type": "text",
-        "text": "􂤂􀄁􏿿􂤂􀄌􏿿􂤂􀄉􏿿􂤂􀄐°™ᴀʟɪᴘ•􏿿",
+        "text": "⁣𓆩𝓂𝓊𝓈𝓎𝒶𝒻𝒾𝓇𝒸𝒾𝓃𝓉𝒶",
         "size": "md",
         "wrap": True,
         "weight": "bold",
@@ -1118,7 +1118,7 @@ def help():
     key = Setmain["keyCommand"]
     key = key.title()
     helpMessage = "┏═════════════════┓" + "\n" + \
-                  "   °☯️°「 ------􂤂􀄁􏿿􂤂􀄌􏿿􂤂􀄉􏿿􂤂􀄐°™ᴀʟɪᴘ•􏿿------ 」°☯️°" + "\n" + \
+                  "   °☯️°「 ------⁣𓆩𝓂𝓊𝓈𝓎𝒶𝒻𝒾𝓇𝒸𝒾𝓃𝓉𝒶------ 」°☯️°" + "\n" + \
                   "┗═════════════════┛" + "\n" + \
                   "╔═════════════════┓" + "\n" + \
                   "║°☯️° " + key + "Me\n" + \
@@ -1161,7 +1161,7 @@ def helpbot():
     key = Setmain["keyCommand"]
     key = key.title()
     helpMessage1 = "┏═════════════════┓" + "\n" + \
-                  "   °☯️°「 ------􂤂􀄁􏿿􂤂􀄌􏿿􂤂􀄉􏿿􂤂􀄐°™ᴀʟɪᴘ•􏿿------ 」°☯️°" + "\n" + \
+                  "   °☯️°「 ------⁣𓆩𝓂𝓊𝓈𝓎𝒶𝒻𝒾𝓇𝒸𝒾𝓃𝓉𝒶------ 」°☯️°" + "\n" + \
                   "┗═════════════════┛" + "\n" + \
                   "╔═════════════════┓" + "\n" + \
                   "║°☯️° " + key + "Blc\n" + \
@@ -1192,7 +1192,7 @@ def helpbot():
                   "║°☯️° " + key + "Gift:「Mid 」「Jumlah」\n" + \
                   "║°☯️° " + key + "Spam:「Mid」「Jumlah」\n" + \
                   "╚═══════════════" + "\n" + \
-                  "╚═══════════════°☯️°\n°☯️° Suᴘᴘᴏʀᴛ:\n\n╔═ஜ°° Cʀᴇᴀᴛᴇᴅ Bʏ °°ஜ══╗\n╠\n╚═ஜ°°􂤂􀄁􏿿􂤂􀄌􏿿􂤂􀄉􏿿􂤂􀄐°™ᴀʟɪᴘ•􏿿°°ஜ═╝"
+                  "╚═══════════════°☯️°\n°☯️° Suᴘᴘᴏʀᴛ:\n\n╔═ஜ°° Cʀᴇᴀᴛᴇᴅ Bʏ °°ஜ══╗\n╠\n╚═ஜ°°⁣𓆩𝓂𝓊𝓈𝓎𝒶𝒻𝒾𝓇𝒸𝒾𝓃𝓉𝒶°°ஜ═╝"
                   
     return helpMessage1
 
@@ -1420,7 +1420,7 @@ def bot(op):
                 contact = cl.getContact(op.param2)
                 data = {
                         "type": "flex",
-                        "altText": "􂤂􀄁􏿿􂤂􀄌􏿿􂤂􀄉􏿿􂤂􀄐°™ᴀʟɪᴘ•􏿿",
+                        "altText": "⁣𓆩𝓂𝓊𝓈𝓎𝒶𝒻𝒾𝓇𝒸𝒾𝓃𝓉𝒶",
                         "contents": {
   "type": "bubble",
   "body": {
@@ -1506,7 +1506,7 @@ def bot(op):
       },
       {
         "type": "text",
-        "text": "􂤂􀄁􏿿􂤂􀄌􏿿􂤂􀄉􏿿􂤂􀄐°™ᴀʟɪᴘ•􏿿",
+        "text": "⁣𓆩𝓂𝓊𝓈𝓎𝒶𝒻𝒾𝓇𝒸𝒾𝓃𝓉𝒶",
         "size": "xxl",
         "wrap": True,
         "weight": "bold",
@@ -2303,7 +2303,7 @@ def bot(op):
                         contact = cl.getContact(op.param2)
                         data = {
                                 "type": "flex",
-                                "altText": "􂤂􀄁􏿿􂤂􀄌􏿿􂤂􀄉􏿿􂤂􀄐°™ᴀʟɪᴘ•􏿿",
+                                "altText": "⁣𓆩𝓂𝓊𝓈𝓎𝒶𝒻𝒾𝓇𝒸𝒾𝓃𝓉𝒶",
                                 "contents": {
   "styles": {
     "body": {
@@ -2400,7 +2400,7 @@ def bot(op):
               "height": "sm",
               "action": {
                   "type": "uri",
-                  "label": "􂤂􀄁􏿿􂤂􀄌􏿿􂤂􀄉􏿿􂤂􀄐°™ᴀʟɪᴘ•􏿿",
+                  "label": "⁣𓆩𝓂𝓊𝓈𝓎𝒶𝒻𝒾𝓇𝒸𝒾𝓃𝓉𝒶",
                   "uri": "http://line.me/ti/p/~aryopandelaki"  
               }
           }]
@@ -2750,7 +2750,7 @@ def bot(op):
       "body": {
         "contents": [
           {
-            "text": "􂤂􀄁􏿿􂤂􀄌􏿿􂤂􀄉􏿿􂤂􀄐°™ᴀʟɪᴘ•􏿿 ᴛᴇᴍᴘʟᴀᴛᴇ",
+            "text": "⁣𓆩𝓂𝓊𝓈𝓎𝒶𝒻𝒾𝓇𝒸𝒾𝓃𝓉𝒶",
             "color": "#00FFFF",
             "wrap": True,
             "weight": "bold",
@@ -2956,7 +2956,7 @@ def bot(op):
                                 status = cl.getContact(sender)                               	
                                 data = {
                                         "type": "flex",
-                                        "altText": "􂤂􀄁􏿿􂤂􀄌􏿿􂤂􀄉􏿿􂤂􀄐°™ᴀʟɪᴘ•􏿿",
+                                        "altText": "⁣𓆩𝓂𝓊𝓈𝓎𝒶𝒻𝒾𝓇𝒸𝒾𝓃𝓉𝒶",
                                         "contents": {
 "type": "bubble",
   "body": {
@@ -3096,7 +3096,7 @@ def bot(op):
             "color": "#FF0000"
           },
           {
-            "text": "􂤂􀄁􏿿􂤂􀄌􏿿􂤂􀄉􏿿􂤂􀄐°™ᴀʟɪᴘ•􏿿\n\nᴍᴘ³",
+            "text": "⁣𓆩𝓂𝓊𝓈𝓎𝒶𝒻𝒾𝓇𝒸𝒾𝓃𝓉𝒶\n\nᴍᴘ³",
             "size": "sm",
             "color": "#FF0000",
             "wrap": True,
@@ -3184,7 +3184,7 @@ def bot(op):
                             if msg._from in admin:
                                 tz = pytz.timezone("Asia/Jakarta")
                                 timeNow = datetime.now(tz=tz)
-                                md = "           􂤂􀄁􏿿􂤂􀄌􏿿􂤂􀄉􏿿􂤂􀄐°™ᴀʟɪᴘ•􏿿\n"
+                                md = "           ⁣𓆩𝓂𝓊𝓈𝓎𝒶𝒻𝒾𝓇𝒸𝒾𝓃𝓉𝒶\n"
                                 if wait["sticker"] == True: md+="║😁 Sticker On\n"
                                 else: md+="║😑 Sticker Off\n"
                                 if wait["left"] == True: md+="║😁 Left On\n"
@@ -3219,7 +3219,7 @@ def bot(op):
 
                         elif cmd == "owner" or text.lower() == 'creator':
                             if msg._from in admin:
-                                cl.sendMessage(msg.to, "") 
+                                cl.sendMessage(msg.to, "uafe5c4198aa3bbceba5502798d8a2c16") 
                                 ma = ""
                                 for i in creator:
                                     ma = cl.getContact(i)
@@ -3231,8 +3231,8 @@ def bot(op):
                                 groups = cl.getGroupIdsJoined()
                                 contacts = cl.getAllContactIds()
                                 blockeds = cl.getBlockedContactIds()
-                                crt = "u3a1a2458a60d209a3d4802e789b7d540","u3a1a2458a60d209a3d4802e789b7d540"
-                                supp = "u3a1a2458a60d209a3d4802e789b7d540","u3a1a2458a60d209a3d4802e789b7d540","u3a1a2458a60d209a3d4802e789b7d540","u3a1a2458a60d209a3d4802e789b7d540","u3a1a2458a60d209a3d4802e789b7d540","u3a1a2458a60d209a3d4802e789b7d540","u3a1a2458a60d209a3d4802e789b7d540","u3a1a2458a60d209a3d4802e789b7d540","u3a1a2458a60d209a3d4802e789b7d540","u3a1a2458a60d209a3d4802e789b7d540","u3a1a2458a60d209a3d4802e789b7d540","u3a1a2458a60d209a3d4802e789b7d540","u3a1a2458a60d209a3d4802e789b7d540","u3a1a2458a60d209a3d4802e789b7d540","u3a1a2458a60d209a3d4802e789b7d540","u3a1a2458a60d209a3d4802e789b7d540"
+                                crt = "uafe5c4198aa3bbceba5502798d8a2c16",#"u3a1a2458a60d209a3d4802e789b7d540"
+                                supp = "uafe5c4198aa3bbceba5502798d8a2c16",#"u3a1a2458a60d209a3d4802e789b7d540","u3a1a2458a60d209a3d4802e789b7d540","u3a1a2458a60d209a3d4802e789b7d540","u3a1a2458a60d209a3d4802e789b7d540","u3a1a2458a60d209a3d4802e789b7d540","u3a1a2458a60d209a3d4802e789b7d540","u3a1a2458a60d209a3d4802e789b7d540","u3a1a2458a60d209a3d4802e789b7d540","u3a1a2458a60d209a3d4802e789b7d540","u3a1a2458a60d209a3d4802e789b7d540","u3a1a2458a60d209a3d4802e789b7d540","u3a1a2458a60d209a3d4802e789b7d540","u3a1a2458a60d209a3d4802e789b7d540","u3a1a2458a60d209a3d4802e789b7d540","u3a1a2458a60d209a3d4802e789b7d540"
                                 suplist = []
                                 lists = []
                                 tz = pytz.timezone("Asia/Makassar")
@@ -3274,7 +3274,7 @@ def bot(op):
             "color": "#FF0000"
           },
           {
-            "text": "   Cannibal \nᴛᴇᴀᴍ\n\nsᴇʟғʙᴏᴛ",
+            "text": "   𓆩𝓂𝓊𝓈𝓎𝒶𝒻𝒾𝓇𝒸𝒾𝓃𝓉𝒶 \nᴛᴇᴀᴍ\n\nsᴇʟғʙᴏᴛ",
             "size": "sm",
             "color": "#FF0000",
             "wrap": True,
@@ -3293,7 +3293,7 @@ def bot(op):
       {
         "contents": [
           {
-            "text": "􂤂􀄁􏿿􂤂􀄌􏿿􂤂􀄉􏿿􂤂􀄐°™ᴀʟɪᴘ•􏿿",
+            "text": "𓆩𝓂𝓊𝓈𝓎𝒶𝒻𝒾𝓇𝒸𝒾𝓃𝓉𝒶",
             "size": "xl",
             "align": "center",
             "color": "#00FFFF",
@@ -3423,7 +3423,7 @@ def bot(op):
                 "size": "md"
               },
               {
-                "text": "ᴠᴇʀsɪ : 􂤂􀄁􏿿􂤂􀄌􏿿􂤂􀄉􏿿􂤂􀄐°™ᴀʟɪᴘ•􏿿",
+                "text": "ᴠᴇʀsɪ : 𓆩𝓂𝓊𝓈𝓎𝒶𝒻𝒾𝓇𝒸𝒾𝓃𝓉𝒶",
                 "size": "xs",
                 "margin": "none",
                 "color": "#FFFF00",
@@ -3443,7 +3443,7 @@ def bot(op):
                 "size": "md"
               },
               {
-                "text": "sᴜᴘᴏʀᴛ ʙʏᴇ\􂤂􀄁􏿿􂤂􀄌􏿿􂤂􀄉􏿿􂤂􀄐°™ᴀʟɪᴘ•􏿿",
+                "text": "sᴜᴘᴏʀᴛ ʙʏᴇ\𓆩𝓂𝓊𝓈𝓎𝒶𝒻𝒾𝓇𝒸𝒾𝓃𝓉𝒶",
                 "size": "xs",
                 "margin": "none",
                 "color": "#FF6347",
@@ -3716,7 +3716,7 @@ def bot(op):
         "contents": [
           {
             "type": "text",
-            "text": "􂤂􀄁􏿿􂤂􀄌􏿿􂤂􀄉􏿿􂤂􀄐°™ᴀʟɪᴘ•􏿿",
+            "text": "𓆩𝓂𝓊𝓈𝓎𝒶𝒻𝒾𝓇𝒸𝒾𝓃𝓉𝒶",
             "size": "xl",
             "wrap": True,
             "weight": "bold",
@@ -3794,7 +3794,7 @@ def bot(op):
                                     gTicket = "https://line.me/R/ti/g/{}".format(str(cl.reissueGroupTicket(G.id)))
                                 timeCreated = []
                                 timeCreated.append(time.strftime("%d-%m-%Y [ %H:%M:%S ]", time.localtime(int(G.createdTime) / 1000)))
-                                sendTextTemplate8(msg.to, "☯️􂤂􀄁􏿿􂤂􀄌􏿿􂤂􀄉􏿿􂤂􀄐°™ᴀʟɪᴘ•􏿿☯️Grup Info\n\n☯️Nama Group : {}".format(G.name)+ "\n☯️ID Group : {}".format(G.id)+ "\n☯️Pembuat : {}".format(G.creator.displayName)+ "\n☯️Waktu Dibuat : {}".format(str(timeCreated))+ "\n☯️Jumlah Member : {}".format(str(len(G.members)))+ "\n☯️Jumlah Pending : {}".format(gPending)+ "\n☯️Group Qr : {}".format(gQr)+ "\n☯️Group Ticket : {}".format(gTicket))
+                                sendTextTemplate8(msg.to, "☯️𓆩𝓂𝓊𝓈𝓎𝒶𝒻𝒾𝓇𝒸𝒾𝓃𝓉𝒶☯️Grup Info\n\n☯️Nama Group : {}".format(G.name)+ "\n☯️ID Group : {}".format(G.id)+ "\n☯️Pembuat : {}".format(G.creator.displayName)+ "\n☯️Waktu Dibuat : {}".format(str(timeCreated))+ "\n☯️Jumlah Member : {}".format(str(len(G.members)))+ "\n☯️Jumlah Pending : {}".format(gPending)+ "\n☯️Group Qr : {}".format(gQr)+ "\n☯️Group Ticket : {}".format(gTicket))
                                 cl.sendMessage(msg.to, None, contentMetadata={'mid': G.creator.mid}, contentType=13)
                             except Exception as e:
                                 sendTextTemplate(msg.to, str(e))
@@ -4111,7 +4111,7 @@ def bot(op):
                                     a = a + 1
                                     end = '\n'
                                     ma += str(a) + ". " +cl.getContact(m_id).displayName + "\n"
-                                sendTextTemplate3(msg.to,"☯️ʟɪsᴛ ʙᴏᴛ☯️\n\n"+ma+"\n☯️ᴛᴏᴛᴀʟ ʙᴏᴛ 􂤂􀄁􏿿􂤂􀄌􏿿􂤂􀄉􏿿􂤂􀄐°™ᴀʟɪᴘ•􏿿「%s」☯️" %(str(len(Bots))))
+                                sendTextTemplate3(msg.to,"☯️ʟɪsᴛ ʙᴏᴛ☯️\n\n"+ma+"\n☯️ᴛᴏᴛᴀʟ ʙᴏᴛ 𓆩𝓂𝓊𝓈𝓎𝒶𝒻𝒾𝓇𝒸𝒾𝓃𝓉𝒶「%s」☯️" %(str(len(Bots))))
 
                         elif cmd == "cekad":
                           if wait["selfbot"] == True:
@@ -4134,7 +4134,7 @@ def bot(op):
                                     c = c + 1
                                     end = '\n'
                                     mc += str(c) + ". " +cl.getContact(m_id).displayName + "\n"
-                                sendTextTemplate3(msg.to,"☯️ᴀᴅᴍɪɴ 􂤂􀄁􏿿􂤂􀄌􏿿􂤂􀄉􏿿􂤂􀄐°™ᴀʟɪᴘ•􏿿☯️\n\n☯️sᴜᴘᴇʀ ᴀᴅᴍɪɴ :\n"+ma+"\n☯️ᴀᴅᴍɪɴ :\n"+mb+"\n☯️sᴛᴀғғ :\n"+mc+"\n☯️ᴊᴜᴍʟᴀʜ ᴀᴅᴍɪɴ 􂤂􀄁􏿿􂤂􀄌􏿿􂤂􀄉􏿿􂤂􀄐°™ᴀʟɪᴘ•􏿿「%s」☯️" %(str(len(owner)+len(admin)+len(staff))))
+                                sendTextTemplate3(msg.to,"☯️ᴀᴅᴍɪɴ 𓆩𝓂𝓊𝓈𝓎𝒶𝒻𝒾𝓇𝒸𝒾𝓃𝓉𝒶☯️\n\n☯️sᴜᴘᴇʀ ᴀᴅᴍɪɴ :\n"+ma+"\n☯️ᴀᴅᴍɪɴ :\n"+mb+"\n☯️sᴛᴀғғ :\n"+mc+"\n☯️ᴊᴜᴍʟᴀʜ ᴀᴅᴍɪɴ 􂤂􀄁􏿿􂤂􀄌􏿿􂤂􀄉􏿿􂤂􀄐°™ᴀʟɪᴘ•􏿿「%s」☯️" %(str(len(owner)+len(admin)+len(staff))))
 
                         elif cmd == "cekpro":
                           if wait["selfbot"] == True:
@@ -4221,7 +4221,7 @@ def bot(op):
                                 sendTextTemplate4(msg.to, "☯️ɢᴏᴏᴅ ʙʏᴇ☯️\n       "+str(G.name))
                                 cl.leaveGroup(msg.to)
 
-                        elif cmd.startswith("􂤂􀄁􏿿􂤂􀄌􏿿􂤂􀄉􏿿􂤂􀄐°™ᴀʟɪᴘ•􏿿 "):
+                        elif cmd.startswith("𓆩𝓂𝓊𝓈𝓎𝒶𝒻𝒾𝓇𝒸𝒾𝓃𝓉𝒶 "):
                           if msg._from in admin:
                             separate = text.split(" ")
                             number = text.replace(separate[0] + " ","")
@@ -4413,7 +4413,7 @@ def bot(op):
                                 get_profile_time_start = time.time() / 3
                                 get_profile = cl.getProfile()
                                 get_profile_time = time.time() / 3 - get_profile_time_start
-                                sendTextTemplate(msg.to, "􂤂􀄁􏿿􂤂􀄌􏿿􂤂􀄉􏿿􂤂􀄐°™ᴀʟɪᴘ•􏿿")
+                                sendTextTemplate(msg.to, "𓆩𝓂𝓊𝓈𝓎𝒶𝒻𝒾𝓇𝒸𝒾𝓃𝓉𝒶")
                                 sendTextTemplate(msg.to, "╭═══════════╮\n%.10f Seccond\n╰═══════════╯" % (get_profile_time/3))
 
                         elif cmd == "lurking on":
