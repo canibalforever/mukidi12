@@ -2713,7 +2713,7 @@ def bot(op):
                           if wait["selfbot"] == True:
                             if msg._from in owner or msg._from in admin:
                                sendTextTemplate3(msg.to, "ʀᴇsᴘᴏɴ ᴏɴ|ᴏғғ\nᴄᴏɴᴛᴀᴄᴛ ᴏɴ|ᴏғғ\nᴀᴜᴛᴏᴊᴏɪɴ ᴏɴ|ᴏғғ\nᴀᴜᴛᴏᴀᴅᴅ ᴏɴ|ᴏғғ\nᴀᴜᴛᴏʟᴇᴀᴠᴇ ᴏɴ|ᴏғғ\nᴡᴇʟᴄᴏᴍᴇ ᴏɴ|ᴏғғ\nᴄᴏʟᴏᴋ ᴏɴ|ᴏғғ\n\nᴄʀᴇᴀᴛᴏʀ ᴛᴇᴍᴘʟᴀᴛᴇ ʙʏᴇ : 𓆩𝓂𝓊𝓈𝓎𝒶𝒻𝒾𝓇𝒸𝒾𝓃𝓉𝒶")
-                        elif cmd == "help5":"𓆩𝓂𝓊𝓈𝓎𝒶𝒻𝒾𝓇𝒸𝒾𝓃𝓉𝒶"
+                        elif cmd == "help5":
                           if wait["selfbot"] == True:
                             if msg._from in owner or msg._from in admin:
                                sendTextTemplate3(msg.to, "ᴀᴅᴍɪɴ:ᴏɴ\nᴀᴅᴍɪɴ:ʀᴇᴘᴇᴀᴛ\nsᴛᴀғғ:ᴏɴ\nsᴛᴀғғ:ʀᴇᴘᴇᴀᴛ\nᴀᴅᴍɪɴᴀᴅᴅ ᴛᴀɢ\nᴀᴅᴍɪɴᴅᴇʟʟ ᴛᴀɢ\nsᴛᴀғғᴀᴅᴅ ᴛᴀɢ\nsᴛᴀғғᴅᴇʟʟ ᴛᴀɢ\nʙᴏᴛᴀᴅᴅ ᴛᴀɢ\nʙᴏᴛᴅᴇʟʟ ᴛᴀɢ\nʀᴇғʀᴇsʜ\nʟɪsᴛʙᴏᴛ\nʟɪsᴛᴀᴅᴍɪɴ\nʟɪsᴛᴘʀᴏᴛᴇᴄᴛ\nsᴇʟғ ᴏɴ|ᴏғғ\n\nᴄʀᴇᴀᴛᴏʀ ᴛᴇᴍᴘʟᴀᴛᴇ ʙʏᴇ : 𓆩𝓂𝓊𝓈𝓎𝒶𝒻𝒾𝓇𝒸𝒾𝓃𝓉𝒶")
