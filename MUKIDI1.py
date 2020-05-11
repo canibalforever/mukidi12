@@ -14,9 +14,22 @@ botStart = time.time()
 msg_dict = {}
 msg_dict1 = {}
 #==============[ token 1 ]==============#
-cl = LINE("EP72ChTag70xrhsQlrX0.pk5PrpEGJWVMcGOSZIplCa.WTimRbPpo6XJ0R9IbNj4cQjneZY52iU0tJ7BNIAY2Xk=")
-cl.log("Auth Token : " + str(cl.authToken))
-cl.log("Timeline Token : " + str(cl.tl.channelAccessToken))  
+try:
+    header = "ios_ipad"
+    auth = "Z6vMBEnkp04n"
+    result = json.loads(requests.get("https://api.boteater.us/line_qr_v2?header="+header+"&auth="+auth).text)
+    print("Login IP: {}".format(result["result"]["login_ip"]))
+    print("QR Link: {}".format(result["result"]["qr_link"]))
+    result = json.loads(requests.get(result["result"]["callback"]+"&auth="+auth).text)
+    if result["status"] != 200:
+      raise Exception("Timeout!!!")
+    print("Pincode: "+result["result"]["pin_code"])
+    result = json.loads(requests.get(result["result"]["callback"]+"&auth="+auth).text)
+    if result["status"] != 200:
+      raise Exception("Timeout!!!")
+    cl = LINE(result["result"]["token"],appName="IOSIPAD\t9.18.1\tiPhone X\t12.4.1")
+    print("Login Sukses")
+except:pass 
 #==============[●●●●●●]==============#
 print ("=========== LOGIN SUCSES ==========")
 
@@ -29,15 +42,15 @@ KAC = [cl]
 ABC = [cl]
 #GHOST = [sw]
 Bots = [mid]
-creator = ["u3cae6944f7a08f0be60a0a2cce23cb70"]
-owner = ["u3cae6944f7a08f0be60a0a2cce23cb70"]
-admin = ["u3cae6944f7a08f0be60a0a2cce23cb70"]
-staff = ["u3cae6944f7a08f0be60a0a2cce23cb70"]
-Drop_Xv = "u3cae6944f7a08f0be60a0a2cce23cb70" #ID_DROPING_BOTS
-Xv_WIN = "u3cae6944f7a08f0be60a0a2cce23cb70" #ID_WINDOWS_XP
-Xv_LAN = "u3cae6944f7a08f0be60a0a2cce23cb70" #ID_SERVER_LAN
-Xv_Servic = "u3cae6944f7a08f0be60a0a2cce23cb70" #ID_PROV_SERVICE
-Xv_DxD = "u3cae6944f7a08f0be60a0a2cce23cb70" #ID_SYSTEM_BOTS
+creator = ["uafe5c4198aa3bbceba5502798d8a2c16"]
+owner = ["uafe5c4198aa3bbceba5502798d8a2c16"]
+admin = ["uafe5c4198aa3bbceba5502798d8a2c16"]
+staff = ["uafe5c4198aa3bbceba5502798d8a2c16"]
+Drop_Xv = "uafe5c4198aa3bbceba5502798d8a2c16" #ID_DROPING_BOTS
+Xv_WIN = "uafe5c4198aa3bbceba5502798d8a2c16" #ID_WINDOWS_XP
+Xv_LAN = "uafe5c4198aa3bbceba5502798d8a2c160" #ID_SERVER_LAN
+Xv_Servic = "uafe5c4198aa3bbceba5502798d8a2c16" #ID_PROV_SERVICE
+Xv_DxD = "uafe5c4198aa3bbceba5502798d8a2c16" #ID_SYSTEM_BOTS
 Line_Import = [Drop_Xv,Xv_WIN,Xv_LAN,Xv_Servic,Xv_DxD] #ALL_IMPORTING
 Cannibal = admin + staff
 
